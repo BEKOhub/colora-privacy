@@ -5,7 +5,7 @@ permalink: /support/
 ---
 # Colora — Support
 
-*Last updated: September 5, 2026.*
+*Last updated: September 6, 2026.*
 
 ---
 
@@ -13,7 +13,7 @@ permalink: /support/
 
 Questions, problems, or a refund/deletion request — write to us directly:
 
-**Yenna Ltd — hamza.bekoury@ensem.ac.ma**
+**Yenna Ltd — hamza.bekoury@hotmail.com**
 
 We reply from this same address; there is no ticketing system and no
 account to log into to reach us.

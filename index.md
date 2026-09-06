@@ -4,7 +4,7 @@ layout: default
 ---
 # Privacy Policy — Colora
 
-*Last updated: September 2, 2026.*
+*Last updated: September 6, 2026.*
 
 ---
 
@@ -72,4 +72,4 @@ below, we delete the data associated with an anonymous identifier.
 
 ## Contact
 
-Yenna Ltd — hamza.bekoury@ensem.ac.ma
+Yenna Ltd — hamza.bekoury@hotmail.com
