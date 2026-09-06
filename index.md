@@ -2,14 +2,14 @@
 title: Privacy Policy
 layout: default
 ---
-# Privacy Policy — Colora
+# Privacy Policy for Colora
 
 *Last updated: September 6, 2026.*
 
 ---
 
 Colora is a coloring app for children aged 3 to 8, purchased and managed
-by their parents. It is built to collect the strict minimum — and nothing,
+by their parents. It is built to collect the strict minimum, and nothing,
 absolutely nothing, about the child.
 
 ## What we do not collect
@@ -35,7 +35,7 @@ used only to:
 
 ## Coloring ideas (the "Creator" feature)
 
-When a **parent** — behind the parental control — types a coloring idea
+When a **parent**, behind the parental control, types a coloring idea
 (for example, "a dragon astronaut"):
 
 - **the text of that idea is sent to Google's Gemini API** to draw the
@@ -52,7 +52,7 @@ Nothing the child draws (their coloring) ever leaves the device.
 
 Payments are handled by Apple's App Store or Google Play, and
 orchestrated by **RevenueCat**, which receives only the anonymous
-identifier and the subscription state — never any information about the
+identifier and the subscription state, never any information about the
 child. Every payment and every setting sits behind a parental control
 (a hold-to-confirm control designed for adult deliberateness).
 
@@ -72,4 +72,4 @@ below, we delete the data associated with an anonymous identifier.
 
 ## Contact
 
-Yenna Ltd — hamza.bekoury@hotmail.com
+Yenna Ltd, hamza.bekoury@hotmail.com

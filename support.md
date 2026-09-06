@@ -3,7 +3,7 @@ title: Support
 layout: default
 permalink: /support/
 ---
-# Colora — Support
+# Colora Support
 
 *Last updated: September 6, 2026.*
 
@@ -11,9 +11,9 @@ permalink: /support/
 
 ## Contact
 
-Questions, problems, or a refund/deletion request — write to us directly:
+Questions, problems, or a refund/deletion request: write to us directly.
 
-**Yenna Ltd — hamza.bekoury@hotmail.com**
+**Yenna Ltd, hamza.bekoury@hotmail.com**
 
 We reply from this same address; there is no ticketing system and no
 account to log into to reach us.
@@ -34,7 +34,7 @@ device.
 
 ### How do I cancel my subscription?
 
-Subscriptions are managed entirely by Apple, not by us — we never see
+Subscriptions are managed entirely by Apple, not by us. We never see
 your payment details and cannot cancel on your behalf. On iPhone or
 iPad: **Settings → [your name] → Subscriptions → Colora → Cancel
 Subscription.**
@@ -48,9 +48,9 @@ purchase and we'll look into it.
 
 ### How do I delete my data?
 
-Colora collects no personal information about your child to begin with
-— see our [Privacy Policy](/colora-privacy/) for exactly what is and
-isn't collected. To request deletion of the anonymous account and its
+Colora collects no personal information about your child to begin
+with. See our [Privacy Policy](/colora-privacy/) for exactly what is
+and isn't collected. To request deletion of the anonymous account and its
 data, email us at the address above.
 
 ### Is this app safe for my child to use unsupervised?
