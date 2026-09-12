@@ -74,6 +74,13 @@ help it currently shows and whether the letter has been learned. This stays
 deleting the app deletes it. A parent can clear it at any time in Settings
 ("Start letters over").
 
+## Learning activities
+
+The Learn room's activities (numbers, dots, patterns, letter sounds) keep a
+count of what was done each week, on the device only, so the parent's
+Settings can show it. Nothing is sent to us or anyone else, and "Start
+learning over" in Settings clears it.
+
 ## The subscription
 
 Payments are handled by Apple's App Store or Google Play, and
