@@ -4,7 +4,7 @@ layout: default
 ---
 # Privacy Policy for Colora
 
-*Last updated: September 12, 2026.*
+*Last updated: September 13, 2026.*
 
 ---
 
@@ -65,6 +65,14 @@ A parent can report a generated page from the Creator. A report sends us
 the page reference, the idea it was drawn from, the age range setting,
 and one reason chosen from a fixed list. It contains no free text. We use
 reports only to review the page and improve moderation.
+
+## Letter tracing
+
+When a child traces letters, the app remembers, for each letter, how much
+help it currently shows and whether the letter has been learned. This stays
+**only on the device**: it is never sent to us or to anyone else, and
+deleting the app deletes it. A parent can clear it at any time in Settings
+("Start letters over").
 
 ## The subscription
 
