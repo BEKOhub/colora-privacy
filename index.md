@@ -4,7 +4,7 @@ layout: default
 ---
 # Privacy Policy for Colora
 
-*Last updated: September 6, 2026.*
+*Last updated: September 12, 2026.*
 
 ---
 
@@ -48,6 +48,24 @@ When a **parent**, behind the parental control, types a coloring idea
 
 Nothing the child draws (their coloring) ever leaves the device.
 
+## Your permission
+
+The first time a parent asks for a page, the app explains that the idea
+will be sent to Google's Gemini API and asks for explicit agreement. No
+idea is sent before that agreement. A parent can withdraw it at any time
+in Settings ("Send ideas to Gemini"); once withdrawn, no further idea is
+sent, and the question is asked again before the next one.
+
+Please do not type names or other personal details into an idea. If you
+believe you did, write to the contact address below and we will delete it.
+
+## Reporting a page
+
+A parent can report a generated page from the Creator. A report sends us
+the page reference, the idea it was drawn from, the age range setting,
+and one reason chosen from a fixed list. It contains no free text. We use
+reports only to review the page and improve moderation.
+
 ## The subscription
 
 Payments are handled by Apple's App Store or Google Play, and
@@ -64,11 +82,32 @@ child. Every payment and every setting sits behind a parental control
 | Google (Gemini API) | Drawing generation | the text of the idea typed by the parent |
 | RevenueCat / Apple / Google | Subscription | the anonymous identifier, the purchase state |
 
+We share data only with the processors listed above, only for the purposes
+described in this policy, and we require each of them to protect it with
+at least the level of protection this policy describes.
+
+## Children's privacy (COPPA)
+
+Colora is directed at children, so we follow the Children's Online Privacy
+Protection Act (COPPA) and comparable laws such as the GDPR. We do not
+knowingly collect personal information from a child. The child-facing
+screens accept no text and contain no links, and every place where
+information can be entered or a purchase made sits behind the parental
+control. The age range a parent chooses in Settings is stored only on the
+device.
+
+A parent can ask at any time to review or delete the data associated with
+their device, or to stop further processing, by writing to the contact
+address below.
+
 ## Retention and deletion
 
 Generated pages are kept so they can be shown again in the app. Deleting
 the app deletes the local identifier; on request to the contact address
 below, we delete the data associated with an anonymous identifier.
+Withdrawing consent for the Creator (see "Your permission") takes effect
+immediately on the device. Reports are kept only as long as needed to
+review them.
 
 ## Contact
 
